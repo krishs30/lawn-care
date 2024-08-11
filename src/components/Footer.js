@@ -5,7 +5,7 @@ const Footer = () => (
   <footer className="footer text-light">
     <div className="footer__inner wrapper">
       <div className="footer__text">
-        <h2>Logo</h2>
+        <h2>Gogreen</h2>
         <p>
           Lorem ipsum dolor sit amet
           <br />
